@@ -1,4 +1,4 @@
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 import random
 import time
 import wikipedia                                        #allow to access information from wikipedia.
