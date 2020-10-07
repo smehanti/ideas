@@ -1,6 +1,5 @@
 
 import cv2
-#import pyttsx3
 
 face_cascade= cv2.CascadeClassifier('haarcascade_frontalface_default.xml')   # haarcascade.xml files needs to be downloaded
 eye_cascade= cv2.CascadeClassifier('haarcascade_eye.xml')
