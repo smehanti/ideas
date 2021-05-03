@@ -1,0 +1,14 @@
+
+string1=input('first : ')
+string2=input('second : ')
+
+first=string1.upper()
+second=string2.upper()
+
+first.split()
+second.split()
+
+if first in second:
+    print('true')
+else:
+    print('false')
